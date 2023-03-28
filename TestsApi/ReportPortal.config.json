@@ -1,0 +1,16 @@
+﻿{
+  "enabled": false,
+  "server": {
+    "url": "...",
+    "project": "...",
+    "authentication": {
+      "uuid": "..."
+    }
+  },
+  "launch": {
+    "name": "...",
+    "description": "...",
+    "debugMode": false,
+    "attributes": [ "t1", "t2", "platform:x64" ]
+  }
+}
